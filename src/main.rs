@@ -1,5 +1,5 @@
-fn main() {}
+#![allow(unused)]
 struct Solution;
 impl Solution {}
-// @lc code=end
 
+fn main() {}
